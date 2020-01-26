@@ -1,0 +1,3 @@
+[submodule "sub_Module"]
+	path = sub_Module
+	url = git@github.com:Jinnel/sub_Module.git
